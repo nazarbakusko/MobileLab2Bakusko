@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BakuskoNazar</string>
+    <string name="item">ItemString</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="button1">KN</string>
+    <string name="button2">-</string>
+    <string name="button3">316</string>
+    <string name="moreinfoheader">It is a good item!</string>
+    <string name="moreinfo">Buy it immediately!</string>
+</resources>
